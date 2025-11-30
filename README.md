@@ -1,6 +1,5 @@
 # Hi there 👋
 
-# About Me:
 ## 💫 Who am I?
 - I'm just a 17 year developer, I write some codes, programs and tools.
 
