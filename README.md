@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**VoinFeix/VoinFeix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me:
 
-Here are some ideas to get you started:
+# 💫 Who am I?
+- I'm just a 17 year developer, I write some codes, programs and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🎉 Interests?
+- Programming
+- Mathematics
+- Gaming - I don't just play games, I break and analyze them.
+- Breaking Tech Stuff.
+  
+# ✧ Programming Languages ✧
+- Python
+- Bash
+
+# ✧ OS ✧
+- Linux (void linux)
+
+# ✧ Related technologies ✧
+- Github
+- VSCode
+- Ollama
+  
+## Featured Projects
+- **[Hola](https://github.com/VoinFeix/Hola)** — A python based AI assistant for linux.
+- **[LilPad](https://github.com/VoinFeix/LilPad.git)** — A free, light and open source text editor made in python.
+- - **[SyncRec](https://github.com/VoinFeix/SyncRec.git)** — A lightweight screenrecorder for linux based systems
