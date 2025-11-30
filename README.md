@@ -11,7 +11,7 @@
 - Breaking Tech Stuff.
   
 ## ✨ Programming Languages ✨
-- <img width="48" height="48" alt="Python" src="https://img.icons8.com/color/512/python.png" /> <img width="48" height="48" alt="Bash" src="https://icons.iconarchive.com/icons/froyoshark/enkel/256/iTerm-icon.png" />
+- <img width="48" height="48" alt="Python" src="https://img.icons8.com/color/512/python.png" /> <img width="48" height="48" src="https://img.icons8.com/color/512/bash.png" alt="bash"/>
 
 ## ✨ OS ✨
 - <img width="48" height="48" alt="Linux (Void Linux)" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/OS-Linux-icon.png" />
