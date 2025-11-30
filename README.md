@@ -12,7 +12,7 @@
 - Breaking Tech Stuff.
   
 # ✧ Programming Languages ✧
-- Python
+- ["https://img.icons8.com/color/512/python.png"] - Python
 - Bash
 
 # ✧ OS ✧
